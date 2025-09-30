@@ -3,26 +3,26 @@
 ## 1. Клонируем репозиторий:
 
 ```bash
-    git clone https://github.com/AzatSaaryan/dex-swap-tracker.git
+git clone https://github.com/AzatSaaryan/dex-swap-tracker.git
 ```
 
 ## 2. Устанавливаем зависимости:
 
 ```bash
-   npm install
+npm install
 ```
 
 ## 3. Создаем `.env` и добавляем:
 
-`RPC_URL=https://mainnet.infura.io/v3/`
-`ALCHEMY_KEY=`
-`NFT_CONTRACT=`
-`TOKEN_API_KEY=`
+```RPC_URL=https://mainnet.infura.io/v3/```
+```ALCHEMY_KEY=```
+```NFT_CONTRACT=```
+```TOKEN_API_KEY=```
 
 ## 4. Запуск:
 
 ```bash
-   npm run start
+npm run start
 ```
 
 ## Пример
